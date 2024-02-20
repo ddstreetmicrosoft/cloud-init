@@ -649,6 +649,7 @@ def _get_variant(info):
             "almalinux",
             "alpine",
             "arch",
+            "azurelinux",
             "centos",
             "cloudlinux",
             "debian",
